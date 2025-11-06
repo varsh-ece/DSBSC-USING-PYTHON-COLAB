@@ -52,7 +52,8 @@ plt.plot(t,s)
 
 Tabulation :
 
-![WhatsApp Image 2025-11-06 at 10 33 17_f2a2c34f](https://github.com/user-attachments/assets/2891ba4a-f3cd-4935-8d3f-e43f45dd73c0)
+<img width="705" height="439" alt="image" src="https://github.com/user-attachments/assets/8941f3dd-697d-420a-a323-612b596c442b" />
+
 
 
 
