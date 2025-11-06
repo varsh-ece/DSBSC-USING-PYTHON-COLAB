@@ -13,10 +13,15 @@ Double Sideband Suppressed Carrier (DSB-SC) is an amplitude modulation technique
 # PROCEDURE
 
 Initialize Parameters: Set the values for message amplitude, carrier amplitude, message frequency, carrier frequency, and sampling frequency.
+
 Generate Time Axis: Create a time vector for the duration of the signal.
+
 Generate Message Signal: Define the message signal as a cosine wave.
+
 Generate Carrier Signal: Define the carrier signal as a cosine wave with a higher frequency.
+
 Generate DSB-SC Signal: Multiply the message signal and carrier signal to produce the Double Sideband Suppressed Carrier (DSB-SC) modulated signal.
+
 Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and the DSB-SC modulated signal.
 
 # Program:
